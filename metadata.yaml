@@ -1,0 +1,38 @@
+_repo: '--------_34951'
+_version: 0.1.0
+alternative_title: Sophist
+contributor:
+  translator:
+    agent_name: Zambas, Kyriakos
+    alias: Ζάμπας, Κυριάκος
+    birthdate: 1866
+    gutenberg_agent_id: '33454'
+    url: http://www.gutenberg.org/2009/agents/33454
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34951'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sophists (Greek philosophy)'
+- !lcsh 'Methodology'
+- !lcc 'B'
+- !lcsh 'Ontology'
+title: Σοφιστής
+url: http://www.gutenberg.org/ebooks/34951
